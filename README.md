@@ -19,7 +19,7 @@
       - “condition” : Liste des conditions qui doivent être remplies pour que ça fonctionne. Un condition peut avoir deux valeurs: “true” (si le joueur a le statut) soit “false” (si le joueur n’a jamais eu le statut, ou s’il l’a perdu).
       - “consequence” : la liste des statuts qui sont créés ou supprimés quand on clique sur ce choix.
 
-**Organiser les fichiers dans les dossiers**
+**Organiser les fichiers d'assets dans les dossiers**
 - Le dossier ''backgrounds/Halloween/'' est pour les décors
 - Le dossier ''persos/Halloween/'' est pour les assets (personnages, objets)
 
