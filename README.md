@@ -27,5 +27,5 @@
 - 900 pixels de large obligatoire
 - La hauteur est libre mais doit quand même tourner entre 450 et 700 pixels de préférence.
 
-**Debugage à l'aide de la console de debugage de Recro**
+**Deboguage à l'aide de la console Recro**
 - [La console de deboguage est disponible ici](https://github.com/Grinouille/dating-lubien) (Suivre le README.md pour l'installation)
