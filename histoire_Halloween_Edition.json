@@ -1,0 +1,35 @@
+{
+	"chapitres": [
+		{
+			"identifiant": "Halloween_0_0_0_0",
+			"image": "backgrounds/Halloween/titre_image.jpg",
+			"perso": "Halloween/Titre_sous_Dossier/titre_image.png",
+			"texte": "<p>Insérer texte ici</p><p></p>",
+			"options": [{
+				"question": "Option 1.",
+				"vers": "Halloween_0_0_1_1",
+				"condition": [["Exemple_De_Condition_1", false]],
+				"consequence": [[]]		
+			},{
+				"question": "Option 2",
+				"vers": "Halloween_0_0_1_2",
+				"condition": [["Exemple_De_Condition_2", true]],
+				"consequence": []		
+			}]
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	]
+}
