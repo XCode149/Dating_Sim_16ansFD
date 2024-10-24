@@ -7,7 +7,7 @@
 - Option 1: Avec le bloc note (Mais le code ne sera pas coloré et peu lisible)
 - Option 2: [Avec le logiciel Microsoft Visual Studio Code (Gratuit)](https://code.visualstudio.com/)
 - Option 3: [Avec le logiciel Notepad++ (Gratuit)](https://notepad-plus-plus.org/downloads/)
-
+- Option 4 : avec le logiciel playgrounds qui est une application pour creer des applis
 **Commencer à éditer le fichier**
 - **“identifiant”** : un nom unique associé à chaque page
 - **“image”** : le nom de l’image utilisée comme décor (Formats acceptés .jpg .png .gif). Elle doit se situer dans le dossier ''backgrounds/Halloween/''.
