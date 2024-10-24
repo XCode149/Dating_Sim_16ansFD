@@ -9,11 +9,11 @@
 - Option 3: [Avec le logiciel Notepad++ (Gratuit)](https://notepad-plus-plus.org/downloads/)
 
 **Commencer à éditer le fichier**
-- “identifiant” : un nom unique associé à chaque page
-- “image” : le nom de l’image utilisée comme décor (Formats acceptés .jpg .png .gif). Elle doit se situer dans le dossier ''backgrounds/Halloween/''.
-- “perso” : le nom de l’image utilisée pour un personnage, un groupe de personnages, des objets ou autres (Formats acceptés .jpg .png .gif). Elle doit se situer dans le dossier ''persos/Halloween/''.
-- “texte” : le texte qui s’affiche. < p >Utiliser ces balises pour créer un paragraphe.< /p > < p >Mettre des mots en < b >**gras**< /b >, < i >*italique*< /i >, etc…< /p >
-- “options” : la liste des différentes options proposées au joueur. Pour chaque option :
+- **“identifiant”** : un nom unique associé à chaque page
+- **“image”** : le nom de l’image utilisée comme décor (Formats acceptés .jpg .png .gif). Elle doit se situer dans le dossier ''backgrounds/Halloween/''.
+- **“perso”** : le nom de l’image utilisée pour un personnage, un groupe de personnages, des objets ou autres (Formats acceptés .jpg .png .gif). Elle doit se situer dans le dossier ''persos/Halloween/''.
+- **“texte”** : le texte qui s’affiche. < p >Utiliser ces balises pour créer un paragraphe.< /p > < p >Mettre des mots en < b >**gras**< /b >, < i >*italique*< /i >, etc…< /p >
+- **“options”** : la liste des différentes options proposées au joueur. Pour chaque option :
       - “question” : le texte de la question.
       - “vers” : Identifiant de la page vers laquelle pointe la question.
       - “condition” : Liste des conditions qui doivent être remplies pour que ça fonctionne. Un condition peut avoir deux valeurs: “true” (si le joueur a le statut) soit “false” (si le joueur n’a jamais eu le statut, ou s’il l’a perdu).
